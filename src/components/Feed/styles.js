@@ -66,7 +66,8 @@ export const Container = styled.div`
       margin-bottom: 5px;
 
       svg:nth-child(2){
-          transform: rotate(270deg)
-      }
+          transform: rotate(270deg);
+      
+        }
   } 
 `;
