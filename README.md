@@ -10,12 +10,12 @@
 
 ## Preview
 
-  - Dark
+  ## Dark
 
   <img src="./assets/Preview.png" alt="preview">
 
 
-  - Light
+  ## Light
 
 
   <img src="./assets/Preview2.png" alt="preview">
