@@ -12,10 +12,10 @@
 
   ## Dark
 
-  <img src="./assets/Preview.pn" alt="preview">
+  <img src="./assets/Preview.png" alt="preview">
 
 
   ## Light
 
 
-  <img src="./assets/Preview2.pn" alt="preview">
+  <img src="./assets/Preview2.png" alt="preview">

@@ -13,21 +13,20 @@ function Search() {
               </li>
               
               <li>
-                <small>Politica . há 10 minuto</small>
+                <small>Tecnologia . há 10 minuto</small>
                 <p>
-                    Bolsonaro é declarado maior jogador de 
-                    free fire do planeta. Ele jogou free fire
-                    durante 40, intesensas, horsa seguidas muito
-                    legal banca maneira.
+                    Node foi completamente morto e substituido pelo 
+                    Deno.
                 </p>
                 <small>24k Tweets</small>
               </li>
 
               <li>
-                <small>Covid-19 . há 1 minuto</small>
+                <small>Celebridades . há 1 minuto</small>
                 <p>
-                    Covid-19 é um doencã muito legal
-                    que ta matando velihnos por ai
+                    Michel Telo responde a pergunta:
+                    "Nós nunca vimos você e o felipe deschapms 
+                    no mesmo lugar. Vocês seriam a mesma pessoas?"
                 </p>
               </li>
 
