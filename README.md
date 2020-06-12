@@ -7,3 +7,7 @@
   - React
   - Styled Components
   - React- Switch
+
+## Preview
+
+  <img src="./Preview.png" alt="preview">
