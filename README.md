@@ -1,6 +1,6 @@
 # Twitter Clone
 
-  Um clone da pagina Home do twitter feito com ReactJS que possui um botão que muda o tema de dark para light.
+  Um clone da pagina Home do twitter feito com ReactJS que possui um botão que muda o tema de dark para light. 
   
 ## Tecnlogias
 
